@@ -5,5 +5,5 @@ Dataset : https://www.kaggle.com/c/tgs-salt-identification-challenge/data
 
 Model :
 
-
+!(https://github.com/sunilpankaj/Image-Segmantion-using-U-Net-Deep-Leaarning-Architecture/blob/master/U-Net.PNG)
 
